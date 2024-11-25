@@ -1,0 +1,33 @@
+#page-wrapper {
+  width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  position: relative; 
+  background-color: blue;
+  height: 100px;
+  text-align: center;
+  font-size: 20px;
+}
+
+main {
+  background-color: red;
+  float: left;
+  width: 70%;
+  height: 800px;
+}
+
+aside {
+  float: left;
+  padding: 5px;
+  width:27%;
+  background-color: yellow;
+}
+
+
+footer {
+  background-color: gray;
+  height: 100px;
+  clear: both;
+}
